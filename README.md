@@ -20,9 +20,9 @@
  <summary> <b>My Github Stats</b>: </summary>
 <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efemazlumoglu&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efemazlumoglu&layout=compact&theme=nord&count_private=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=efemazlumoglu&show_icons=true&theme=nord)
+![Github stats](https://github-readme-stats.vercel.app/api?username=efemazlumoglu&show_icons=true&theme=nord&count_private=true)
 
 </details>
 Work In Progress...

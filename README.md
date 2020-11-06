@@ -25,4 +25,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=efemazlumoglu&show_icons=true&theme=nord&count_private=true&show_icons=true)
 
 </details>
-Work In Progress...

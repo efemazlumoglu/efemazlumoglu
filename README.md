@@ -20,8 +20,25 @@
  <summary> <b>My Github Stats</b>: </summary>
 <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efemazlumoglu&layout=compact&theme=nord&count_private=true&show_icons=true)
+## &#x1f4c8; GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=efemazlumoglu&show_icons=true&theme=nord&count_private=true&show_icons=true)
+<a href="https://github.com/efemazlumoglu/efemazlumoglu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efemazlumoglu&langs_count=4&hide=c%23&count_private=true" />
+</a>
+<a href="https://github.com/efemazlumoglu/efemazlumoglu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efemazlumoglu&show_icons=true&line_height=27&count_private=true&" alt="Efe Maz's GitHub Stats" />
+</a>
+<br />
+<br />
+
+
+Work In Progress...
+
+<!-- icons without padding -->
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+[3]: https://www.linkedin.com/in/efemazlumoglu/
 
 </details>

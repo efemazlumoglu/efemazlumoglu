@@ -22,9 +22,11 @@
  
 ## &#x1f4c8; GitHub Stats
 
+<!--
 <a href="https://github.com/efemazlumoglu/efemazlumoglu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efemazlumoglu&langs_count=4&hide=c%23&count_private=true" />
 </a>
+-->
 <a href="https://github.com/efemazlumoglu/efemazlumoglu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=efemazlumoglu&show_icons=true&line_height=27&count_private=true&" alt="Efe Maz's GitHub Stats" />
 </a>

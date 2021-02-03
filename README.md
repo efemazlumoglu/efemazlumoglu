@@ -1,5 +1,9 @@
 ###  Hello Stranger I'm Efe and I'm an  Developer !! 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-efemazlumoglu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efemazlumoglu/)](https://www.linkedin.com/in/efemazlumoglu/)
+[![Twitter Badge](https://img.shields.io/badge/-efemaz_-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/efemaz_/)](https://twitter.com/efemaz_)
+[![Instagram Badge](https://img.shields.io/badge/-efe_maz-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/efe_maz/)](https://instagram.com/efe_maz)
+[![Gmail Badge](https://img.shields.io/badge/-efe.mazlumoglu@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:efe.mazlumoglu@gmail.com)](mailto:efe.mazlumoglu@gmail.com)
 
  Languages and Tools That I Use Most:
 
